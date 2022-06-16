@@ -8,3 +8,6 @@ Console.WriteLine("Hello, World!");
 //commit 4 master
 //commit 4 from test branch
 //commit 5 from test branch
+//test branch 2 commit 5
+//test branch 2 commit 6
+//test branch 2 commit 7
